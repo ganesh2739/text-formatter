@@ -2,18 +2,16 @@
 
 ## Description
 
-A brief description of your project. What does it do? What is its purpose?
+> My Text Project is a web application built with React that allows users to Manage Text As Mentioned Below
 
-Example:
-> My Text Project is a web application built with React that allows users to create, edit, and save text notes. It's designed to be simple and intuitive, providing a clean interface for managing text-based content.
+## Features To Manage Text On Click Button Without Realoding Page
 
-## Features
-
-- **Create New Notes**: Users can create new notes.
-- **Edit Notes**: Users can edit existing notes.
-- **Save Notes**: Notes are automatically saved locally in the browser.
-- **Delete Notes**: Users can delete notes.
-- **Responsive Design**: The application works on both desktop and mobile devices.
+- **User Can Convert Text In UpperCase**: Users can create new notes.
+- **User Can Convert Text In Lowercase**: Users can edit existing notes.
+- **User Can Copy All Text**: Notes are automatically saved locally in the browser.
+- **User Can Clear Text**: Users can delete notes.
+- **Add Notes**: The application works on both desktop and mobile devices.
+- **Past Text**: The application works on both desktop and mobile devices.
 
 ## Installation
 
@@ -23,3 +21,4 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/ganesh2739/text-formatter.git
+2 Link -  https://ganesh2739.github.io/text-util
